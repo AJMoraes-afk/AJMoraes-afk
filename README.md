@@ -32,15 +32,29 @@
 
 <h2 align="center"><img src="title2.png" width="25" valign="middle"/> <em>𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚𝐬</em></h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/PHP-1a1a1a?style=for-the-badge&logo=php&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-1a1a1a?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/FRONT--END-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E0E0E0?style=for-the-badge&logo=html5&logoColor=black&labelColor=E0E0E0" />
+  <img src="https://img.shields.io/badge/CSS3-E0E0E0?style=for-the-badge&logo=css3&logoColor=black&labelColor=E0E0E0" />
+  <img src="https://img.shields.io/badge/JavaScript-E0E0E0?style=for-the-badge&logo=javascript&logoColor=black&labelColor=E0E0E0" />
+  <img src="https://img.shields.io/badge/React-E0E0E0?style=for-the-badge&logo=react&logoColor=black&labelColor=E0E0E0" />
+  <img src="https://img.shields.io/badge/Bootstrap-E0E0E0?style=for-the-badge&logo=bootstrap&logoColor=black&labelColor=E0E0E0" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/BACK--END-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-E0E0E0?style=for-the-badge&logo=java&logoColor=black&labelColor=E0E0E0" />
+  <img src="https://img.shields.io/badge/PHP-E0E0E0?style=for-the-badge&logo=php&logoColor=black&labelColor=E0E0E0" />
+  <img src="https://img.shields.io/badge/Laravel-E0E0E0?style=for-the-badge&logo=laravel&logoColor=black&labelColor=E0E0E0" />
+  <img src="https://img.shields.io/badge/MySQL-E0E0E0?style=for-the-badge&logo=mysql&logoColor=black&labelColor=E0E0E0" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/FERRAMENTAS-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-E0E0E0?style=for-the-badge&logo=git&logoColor=black&labelColor=E0E0E0" />
+  <img src="https://img.shields.io/badge/VS_Code-E0E0E0?style=for-the-badge&logo=visualstudiocode&logoColor=black&labelColor=E0E0E0" />
+  <img src="https://img.shields.io/badge/Figma-E0E0E0?style=for-the-badge&logo=figma&logoColor=black&labelColor=E0E0E0" />
+  <img src="https://img.shields.io/badge/Canva-E0E0E0?style=for-the-badge&logo=canva&logoColor=black&labelColor=E0E0E0" />
 </p>
 
 <br>
