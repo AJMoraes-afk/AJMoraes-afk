@@ -35,7 +35,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/FRONT--END-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/HTML5-E0E0E0?style=for-the-badge&logo=html5&logoColor=black&labelColor=E0E0E0" />
-  <img src="https://img.shields.io/badge/CSS3-E0E0E0?style=for-the-badge&logo=css3&logoColor=black&labelColor=E0E0E0" />
+  <img src="https://img.shields.io/badge/CSS3-E0E0E0?style=for-the-badge&logo=css&logoColor=black&labelColor=E0E0E0" />
   <img src="https://img.shields.io/badge/JavaScript-E0E0E0?style=for-the-badge&logo=javascript&logoColor=black&labelColor=E0E0E0" />
   <img src="https://img.shields.io/badge/React-E0E0E0?style=for-the-badge&logo=react&logoColor=black&labelColor=E0E0E0" />
   <img src="https://img.shields.io/badge/Bootstrap-E0E0E0?style=for-the-badge&logo=bootstrap&logoColor=black&labelColor=E0E0E0" />
